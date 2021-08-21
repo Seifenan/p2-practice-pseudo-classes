@@ -4,9 +4,9 @@
 
 ## Submission
 
-[Github Repository Link](https://github.com/Seifenan/practice-brokencode-p6) 
+[Github Repository Link](https://github.com/Seifenan/p4-practice-pseudo-classes) 
 
-[Deployed URL Link](https://seifenan.github.io/practice-brokencode-p6/) 
+[Deployed URL Link](https://seifenan.github.io/p4-practice-pseudo-classes/) 
 
 ## Completed Screenshot
 
