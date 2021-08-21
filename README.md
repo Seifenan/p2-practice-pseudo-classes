@@ -1,4 +1,4 @@
-# Pre-work: Broken Code
+# Pre-work: Pseudo Classes
 
 > I was tasked with styling specific elements using pseudo-classes.
 
