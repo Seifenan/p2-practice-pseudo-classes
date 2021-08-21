@@ -1,6 +1,6 @@
 # Pre-work: Broken Code
 
->I was tasked with identifying broken code by comparing it to similar working code.
+> I was tasked with styling specific elements using pseudo-classes.
 
 ## Submission
 
